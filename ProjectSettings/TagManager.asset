@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FadeController
+  - Hex2
+  - Hex1
+  - Hex3
+  - Hex4
+  - Hex5
+  - Hex
+  - lotus
+  - UIcamera
+  - lantern
+  - Coupon
+  - CinemachineTarget
+  - burger
+  - Fall
+  - GameOver
+  - GameStart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - bg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Block
+    uniqueID: 2689791399
+    locked: 0
